@@ -8,5 +8,9 @@ sectionsWorked: []
 entitiesModified: []
 decisions: null
 openQuestions: []
-reEntryContext: null
+reEntryContext:
+  whereWeWere: Session agent not yet implemented
+  whatIsNext: ''
+  openQuestions: []
+  unplacedCaptures: []
 createdAt: '2026-02-25T17:33:38.727Z'
